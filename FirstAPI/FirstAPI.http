@@ -1,0 +1,6 @@
+@FirstAPI_HostAddress = http://localhost:5117
+
+GET {{FirstAPI_HostAddress}}/api/Funcionario/
+Accept: application/json
+
+###
